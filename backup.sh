@@ -4,7 +4,7 @@
 this is script for backup
 
 ./backup.sh <pathto your source>  <path to your backup folder>
-
+ argument pass at the time of run command
 readme
 
 function display_usage {
